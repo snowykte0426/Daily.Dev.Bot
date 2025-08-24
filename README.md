@@ -18,7 +18,7 @@ Daily.dev에서 상위 게시글을 크롤링하고 한국어로 번역하여 Di
 ### 1. 저장소 클론
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/snowykte0426/Daily.Dev.Bot.git
 cd Daily.Dev.Bot
 ```
 
